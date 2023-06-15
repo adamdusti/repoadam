@@ -1,0 +1,3 @@
+saya sedang berada di SMKN 1 Cihampelas
+..
+dan ini merupakan percobaan belajar git & github
