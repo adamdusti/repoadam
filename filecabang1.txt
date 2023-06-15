@@ -1,0 +1,3 @@
+ini merupakan cabang baru dari git dan file ini file pertama di cabang1
+..
+cabang baru
